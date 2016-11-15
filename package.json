@@ -1,0 +1,25 @@
+{
+  "name": "levenshtein-edits",
+  "version": "1.0.0",
+  "description": "A method to detect the levenshtein edits between strings",
+  "main": "levenshtein-edits.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/upman/levenshtein-edits.git"
+  },
+  "keywords": [
+    "levenshtein",
+    "edit",
+    "distance",
+    "operations"
+  ],
+  "author": "Ravi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/upman/levenshtein-edits/issues"
+  },
+  "homepage": "https://github.com/upman/levenshtein-edits#readme"
+}
